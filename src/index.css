@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.itemCard{
+  width: 750px;
+  border: solid 1px black;
+  border-radius: 20px;
+  margin: 20px auto;
+}
+
+.cardImg{
+  border: solid 1px gray;
+  width: 125px;
+  height: 125px;
+  margin: auto
+}
+
+.basket{
+  position: sticky;
+  margin-left: 70vw;
+  top: 0px;
+  width: 250px;
+  
+}
+
+.basketIMG{
+  width: 50px;
+  margin-top: 10px;
+}
+
+.storeFront{
+  position: absolute;
+  top: 150px;
+  left: 10vw
+}
+
+.quantity{
+  grid-column-start: 3;
+  display: flex;
+  padding: 2px;
+  gap: 5px;  
+}
+
+.cardDesc{
+  margin: 20px
+}
+
+.title{
+  margin-top: -50px;
+}
+
+.itemLine{
+  display: grid;
+  grid-template-columns: 3fr 1fr 1fr;
+  margin-top: 10px;
+  border-bottom: 1px dashed black;
+}
+
+.itemCardHead{
+  margin: 5px 0px 10px ;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.itemCardBody{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.itemCardFoot{
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+}
+
+.cardCost{
+  grid-column-start: 2;
+}
+
+.cardKcal{
+  font-size: 12px;
+  color: gray;
+}
+
+.basketList{
+  border: dashed 1px black;
+  border-radius: 0px 0px 20px 20px;
+  Padding: 5px;
+  background-color: white;
+  text-align: left;
+}
+
+.basketTot{
+  text-align: right;
+  margin-right: 5px;
+}
+
+.expandList{
+  position: absolute
+}
+
+.upperInfo{
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  margin-bottom: 75px;
+}
+
+.lowerInfo{
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+}
+
+#homeImgLeft,
+#homeImgRight{
+  margin: auto;
+  height: 250px
+}
+
+.homeText{
+  margin: 50px
+}

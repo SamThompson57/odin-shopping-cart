@@ -1,0 +1,222 @@
+{
+    "storename": "Super Burger",
+    "open": "9AM",
+    "close": "8PM",
+    "menu":[
+        {
+            "subsection": "Burgers",
+            "desc": "100% Beef or Chicken Burgers, Served with Fries",
+            "items": [
+                {
+                    "name": "Cali BBQ",
+                    "cost": 7.69,
+                    "desc": "Get a taste of sunny California! Tuck into a flame-grilled Super patty, topped with American cheese, fresh slices of tomato and crisp lettuce, and finished with a zesty BBQ sauce and golden crispy onions.",
+                    "img": null,
+                    "kcal": 701
+                },
+                {
+                    "name": "Cali BBQ Double",
+                    "cost": 8.89,
+                    "desc": "Get a taste of sunny California! Tuck into two flame-grilled Super patties, topped with American cheese, fresh slices of tomato and crisp lettuce, and finished with a swirl of zesty BBQ sauce and golden crispy onions.",
+                    "img": null,
+                    "kcal": 948
+                },
+                {
+                    "name": "Cali Chicken BBQ",
+                    "cost": 7.69,
+                    "desc": "Get a taste of sunny California! A zesty BBQ sauce on a juicy Chicken Super patty, topped with two slices of American cheese, fresh tomato slices, crisp lettuce, and a scatter of golden crispy onions.",
+                    "img": null,
+                    "kcal": 642
+                },
+                {
+                    "name": "Super",
+                    "cost": 6.79,
+                    "desc": "A flame-grilled beef patty, topped with tomatoes, fresh cut lettuce, mayo, pickles, a swirl of ketchup and sliced onions on a soft sesame seed bun.",
+                    "img": null,
+                    "kcal": 642
+                },
+                {
+                    "name": "Double Super",
+                    "cost": 8.29,
+                    "desc": "Two flame- grilled beef patties topped with juicy tomatoes, fresh cut lettuce, mayo, pickles, white onions and a swirl of ketchup on a soft sesame seed bun.",
+                    "img": null,
+                    "kcal": 888
+                },
+                {
+                    "name": "Super Chicken, Bacon & Cheese",
+                    "cost": 8.19,
+                    "desc": "Toasted long sesame bun with crispy chicken, lettuce, creamy mayo, melted cheese and crispy bacon.",
+                    "img": null,
+                    "kcal": 719
+                },
+                {
+                    "name": "MEGA Double Cheese Burger and Bacon",
+                    "cost": 8.49,
+                    "desc": "Two flame- grilled beef patties topped with Applewood smoked bacon and American cheese, all in our toasted sesame seed bun.",
+                    "img": null,
+                    "kcal": 925
+                },
+                {
+                    "name": "Super Chicken",
+                    "cost": 6.79,
+                    "desc": "Tasty chicken wrapped in a special crisp coating, topped with iceberg lettuce, creamy mayo and crowned with a toasted sesame seed bun.",
+                    "img": null,
+                    "kcal": 599
+                },
+                {
+                    "name": "Double Cheese Burger and Bacon",
+                    "cost": 5.79,
+                    "desc": "Two signature flame-grilled beef patties topped with smoked bacon and two layers of melted American cheese on a toasted sesame seed bun.",
+                    "img": null,
+                    "kcal": 440
+                }
+            ]
+        },
+        {
+            "subsection": "Vegan Burgers",
+            "desc": "Vegan and Plant- Based Burgers, Served with Fries",
+            "items": [
+                {
+                    "name": "Plant-Based Cheese Burger and Bakon",
+                    "cost": 7.69,
+                    "desc": "A flame-grilled Plant-based Super® patty in our classic Super® bun, layered with slices of smooth Vegan Cheeeze and strips of Vegan Bakon, topped with egg-free mayo and ketchup. It's big, plant-based flavour. Plant-based Bakon King is plant-based, however it is cooked on the same broiler as our Super® to deliver the same unique flame-grilled taste.",
+                    "img": null,                    
+                    "kcal": 685
+                },
+                {
+                    "name": "Plant-Based Double Cheese Burger and Bakon",
+                    "cost": 8.89,
+                    "desc": "Two juicy flame-grilled Plant-based Super patties in a soft sesame bun, layered with four slices of smooth Vegan Cheeeze and crispy Vegan Bakon, topped with egg-free mayo and ketchup. It's big, plant-based flavour. Plant-based Bakon King is plant-based, however it is cooked on the same broiler as our Super to deliver the same unique flame-grilled taste.",
+                    "img": null,                    
+                    "kcal": 953
+                },
+                
+                {
+                    "name": "Plant-Based Super",
+                    "cost": 6.79,
+                    "desc": "A Flame-grilled Plant-based burger, topped with tomatoes, fresh cut lettuce, vegan mayo, pickles, a swirl of ketchup, and sliced onions on a soft sesame seed bun. The Plant-based Super is plant-based, however it is cooked on the same broiler as our original Super to deliver the same unique flame-grilled taste.",
+                    "img": null,                    
+                    "kcal": 555
+                },
+                {
+                    "name": "Vegan Super Chicken, Bakon & Cheese",
+                    "cost": 7.69,
+                    "desc": "Our famous Vegan Super patty nestled in a soft sesame bun, topped with sizzling Vegan Bakon, two slices of smooth Vegan Cheeeze, and drizzled with egg-free mayo and ketchup. It's 100% tasty, 100% Vegan.",
+                    "img": null,                    
+                    "kcal": 662
+                },
+                {
+                    "name": "Vegan Super Chicken",
+                    "cost": 6.79,
+                    "desc": "Tasty chicken wrapped in a special crisp coating, topped with iceberg lettuce, creamy mayo and crowned with a toasted sesame seed bun.",
+                    "img": null,                    
+                    "kcal": 571
+                }
+            ]
+        },
+        {
+            "subsection": "Sides and Fries",
+            "desc": "Side dishes for when you need something extra",
+            "items": [
+                {
+                    "name": "Chilli Chicken Fries",
+                    "cost": 5.49,
+                    "desc": "6 Strips of 100% juicy chicken breast, breaded with crushed Doritos© tortilla chips to create the perfect crunch, and dusted with the iconic and bold Doritos© Chilli Heatwave flavour.",
+                    "img": null,                    
+                    "kcal": 228
+                },
+                {
+                    "name": "6 Chicken Nuggets",
+                    "cost": 4.79,
+                    "desc": "Bite-sized Chicken Nuggets, coated in a crispy tempura. Served with our BK dip.",
+                    "img": null,                    
+                    "kcal": 364
+                },
+                
+                {
+                    "name": "6 Vegan Nuggets",
+                    "cost": 4.79,
+                    "desc": "Certified by the Vegan Society®- Vegan Nuggets served with a dip of your choice",
+                    "img": null,                    
+                    "kcal": 290
+                },
+                {
+                    "name": "6 Chilli Cheese Bites",
+                    "cost": 3.79,
+                    "desc": "Crispy coated with smooth and spicy cheese inside. A unique taste of chilli with every bite.",
+                    "img": null,                    
+                    "kcal": 302
+                },
+                {
+                    "name": "6 Onion Rings",
+                    "cost": 2.79,
+                    "desc": "Classic golden onion rings",
+                    "img": null,                    
+                    "kcal": 225
+                },
+                {
+                    "name": "Large Fries",
+                    "cost": 2.89,
+                    "desc": "",
+                    "img": null,                    
+                    "kcal": 386
+                }
+            ]
+        },
+        {
+            "subsection": "Drinks",
+            "desc": "Drinks to wash your food down",
+            "items": [
+                {
+                    "name": "Coca-Cola Zero Sugar",
+                    "cost": 2.69,
+                    "desc": "500ml Bottle - This bottle is 100% recyclable- please recycle.",
+                    "img": null,                    
+                    "kcal": 2
+                },
+                {
+                    "name": "Diet Coke",
+                    "cost": 2.69,
+                    "desc": "500ml Bottle - This bottle is 100% recyclable- please recycle.",
+                    "img": null,                    
+                    "kcal": 2
+                },
+                {
+                    "name": "Fanta Orange",
+                    "cost": 2.69,
+                    "desc": "500ml Bottle - This bottle is 100% recyclable- please recycle.",
+                    "img": null,                    
+                    "kcal": 95
+                },
+                {
+                    "name": "Sprite Zero Sugar",
+                    "cost": 2.69,
+                    "desc": "500ml Bottle - This bottle is 100% recyclable- please recycle.",
+                    "img": null,                    
+                    "kcal": 5
+                },
+                {
+                    "name": "Still Water",
+                    "cost": 2.49,
+                    "desc": "",
+                    "img": null,                    
+                    "kcal": 0
+                },
+                {
+                    "name": "Capri Sun Orange",
+                    "cost": 1.99,
+                    "desc": "",
+                    "img": null,                    
+                    "kcal": 14
+                },
+                {
+                    "name": "Coca-Cola Original Taste",
+                    "cost": 2.53,
+                    "desc": "500ml Bottle - This bottle is 100% recyclable- please recycle.",
+                    "img": null,                    
+                    "kcal": 210
+                }
+            ]
+        }
+    ]
+}
